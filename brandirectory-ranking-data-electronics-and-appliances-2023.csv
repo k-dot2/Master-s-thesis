@@ -1,0 +1,51 @@
+﻿2023,2022,Name,Country,2023 - USD,2022 - USD,2023,2022
+1,1,Apple,"United States",297511.81,355079.97,AAA-,AAA
+2,2,Samsung,"South Korea",82722.44,89229.04,AAA-,AAA
+3,3,Huawei,China,44291.65,71232.74,AAA-,AAA-
+4,4,"Dell Technologies","United States",22612.12,22220,AA,AA
+5,5,"LG Group","South Korea",21260.97,20792,AA+,AA+
+6,6,Sony,Japan,16367.16,19814.9,AA+,AAA-
+7,7,Midea,China,10264.58,10496.48,AA-,AA
+8,10,Panasonic,Japan,9914.88,8767.33,AA+,AA
+9,8,HP,"United States",9131.2,10066.34,AA,AA+
+10,11,Canon,Japan,8148.54,8644.01,AA+,AA+
+11,14,Xbox,"United States",0,0,,
+12,13,Gree,China,0,0,,
+13,12,PlayStation,Japan,0,0,,
+14,15,Haier,China,0,0,,
+15,9,Xiaomi,China,0,0,,
+16,18,Hikvision,China,0,0,,
+17,17,Lenovo,China,0,0,,
+18,20,Goertek,China,0,0,,
+19,19,BOE,China,0,0,,
+20,21,"Mitsubishi Electric",Japan,0,0,,
+21,22,Nintendo,Japan,0,0,,
+22,23,"Techtronic Industries",China,0,0,,
+23,24,"Western Digital","United States",0,0,,
+24,25,ZTE,China,0,0,,
+25,26,Kyocera,Japan,0,0,,
+26,27,Sharp,Japan,0,0,,
+27,28,"Quanta Computer",China,0,0,,
+28,30,Toshiba,Japan,0,0,,
+29,31,"Motorola Solutions","United States",0,0,,
+30,37,OnePlus,China,0,0,,
+31,,Harman,"South Korea",0,NaN,,
+32,29,Fujifilm,Japan,0,0,,
+33,35,ASUS,China,0,0,,
+34,33,Whirlpool,"United States",0,0,,
+35,34,Wii,Japan,0,0,,
+36,39,Logitech,Switzerland,0,0,,
+37,38,Seb,France,0,0,,
+38,40,Arçelik,Türkiye,0,0,,
+39,,"Trimble Navigation","United States",0,NaN,,
+40,46,Pegatron,China,0,0,,
+41,,Transsion,China,0,NaN,,
+42,32,Sandisk,"United States",0,0,,
+43,41,"TCL  CSOT",China,0,0,,
+44,36,"Lens Technology",China,0,0,,
+45,42,Coway,"South Korea",0,0,,
+46,44,"Brother Industries",Japan,0,0,,
+47,45,MSI,China,0,0,,
+48,,Miele,Germany,0,NaN,,
+49,,Vestel,Türkiye,0,NaN,,
+50,48,Supor,China,0,0,,

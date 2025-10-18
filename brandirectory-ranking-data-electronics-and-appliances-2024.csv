@@ -1,0 +1,51 @@
+﻿2024,2023,Name,Country,2024 - USD,2023 - USD,2024,2023
+1,1,Apple,"United States",516581.51,297511.81,AAA,AAA-
+2,2,Samsung,"South Korea",82210.76,82722.44,AAA,AAA-
+3,3,Huawei,China,31096.73,44291.65,AAA-,AAA-
+4,4,"Dell Technologies","United States",21437.06,22612.12,AA+,AA
+5,6,Sony,Japan,14263.23,16367.16,AAA-,AA+
+6,,"LG Electronics","South Korea",9840.7,NaN,AAA-,
+7,8,Panasonic,Japan,9233.1,9914.88,AA+,AA+
+8,7,Midea,China,9074.52,10264.58,AA,AA-
+9,9,HP,"United States",8730.69,9131.2,AA+,AA
+10,11,Xbox,"United States",8251.97,8114.76,AAA-,AA+
+11,13,PlayStation,Japan,0,0,,
+12,10,Canon,Japan,0,0,,
+13,14,Haier,China,0,0,,
+14,15,Xiaomi,China,0,0,,
+15,12,Gree,China,0,0,,
+16,17,Lenovo,China,0,0,,
+17,21,Nintendo,Japan,0,0,,
+18,16,Hikvision,China,0,0,,
+19,20,"Mitsubishi Electric",Japan,0,0,,
+20,,Vivo,China,0,NaN,,
+21,18,Goertek,China,0,0,,
+22,25,Kyocera,Japan,0,0,,
+23,,OPPO,China,0,NaN,,
+24,23,"Western Digital","United States",0,0,,
+25,32,Fujifilm,Japan,0,0,,
+26,29,"Motorola Solutions","United States",0,0,,
+27,28,Toshiba,Japan,0,0,,
+28,24,ZTE,China,0,0,,
+29,31,Harman,"South Korea",0,0,,
+30,26,Sharp,Japan,0,0,,
+31,33,ASUS,China,0,0,,
+32,42,Sandisk,"United States",0,0,,
+33,34,Whirlpool,"United States",0,0,,
+34,37,Seb,France,0,0,,
+35,48,Miele,Germany,0,0,,
+36,41,Transsion,China,0,0,,
+37,38,Arçelik,Türkiye,0,0,,
+38,36,Logitech,Switzerland,0,0,,
+39,46,"Brother Industries",Japan,0,0,,
+40,47,MSI,China,0,0,,
+41,49,Vestel,Türkiye,0,0,,
+42,45,Coway,"South Korea",0,0,,
+43,,De'Longhi,Italy,0,NaN,,
+44,,Hisense,China,0,NaN,,
+45,,DJI,China,0,NaN,,
+46,50,Supor,China,0,0,,
+47,,Anker,China,0,NaN,,
+48,,Acer,China,0,NaN,,
+49,,"Little Swan",China,0,NaN,,
+50,,Electrolux,Sweden,0,NaN,,
